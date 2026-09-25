@@ -1,6 +1,4 @@
-# Etapa 5 Seleção para Desenvolvedor Full Stack - JR - Prothera
-
-## Teste Prático - Iniflex
+# Teste Prático - Iniflex
 
 ## Desafio Prático de Programação Java
 
@@ -10,7 +8,6 @@ Projeto desenvolvido para resolução de um desafio prático de programação ut
 
 Agradeço à Prothera pela oportunidade de participar do processo seletivo e de apresentar este projeto.
 
-Espero que a solução desenvolvida corresponda às expectativas e possa demonstrar meu interesse, dedicação e comprometimento com a oportunidade.
 ---
 
 ## Tecnologias utilizadas
